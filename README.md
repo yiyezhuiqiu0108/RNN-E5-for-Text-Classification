@@ -1,5 +1,5 @@
-# RNN-E5-for-NLP-Classification
-The RNN for NLP Classification
+# RNN-E5-for-Text-Classification
+The RNN for Text Classification
 
 This file uses single-layer one-way RNN model and E5 Embedding model for NLP classification.
 
